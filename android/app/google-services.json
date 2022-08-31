@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "856493837359",
+    "project_id": "azaan-e7b3c",
+    "storage_bucket": "azaan-e7b3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856493837359:android:5d38e4606d872a82058ada",
+        "android_client_info": {
+          "package_name": "com.example.azan_time"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856493837359-pfamkkrm6ul5f3jnk9ou8t25u2s85i4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZRrSzlHC1TvOngOkUo4eWyRBDBPGBCRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856493837359-pfamkkrm6ul5f3jnk9ou8t25u2s85i4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
